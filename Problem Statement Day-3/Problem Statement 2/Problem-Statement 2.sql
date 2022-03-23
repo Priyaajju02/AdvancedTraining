@@ -29,5 +29,3 @@ CREATE TABLE `Users` (
   `registration_date` date NOT NULL
 );
  
- select * from Users ;
- 
